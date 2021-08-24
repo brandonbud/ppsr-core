@@ -12,7 +12,7 @@ PPSR Core is maintained by an international group of volunteers including member
 
 **Anne Bowser**, The Wilson Center
 
-**Brandon Budnicki**, Budnicki Consulting  
+**Brandon Budnicki**, CitSci.org  
 
 **Charmel Menzel**, Esri
 
